@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "1 Hanover Terrace",
+    "postCode": "NW1 4RJ",
+    "city": "London",
+    "country": "United Kingdom",
+    "price": 38889634,
+    "image": "http://localhost:3000/images/1.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Huxley House, Bishops Avenue",
+    "postCode": "N2 OBJ",
+    "city": "London",
+    "country": "United Kingdom",
+    "price": 22797372,
+    "image": "http://localhost:3000/images/29.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Victory House",
+    "postCode": "W8 45RF",
+    "city": "London",
+    "country": "United Kingdom",
+    "price": 30172992,
+    "image": "http://localhost:3000/images/9.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Hamilton Terrace, St. Johns Wood",
+    "postCode": "NW8 9UJ",
+    "city": "London",
+    "country": "United Kingdom",
+    "price": 23467993,
+    "image": "http://localhost:3000/images/19.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Half Moon Street, Mayfair",
+    "postCode": "W1J 7BD",
+    "city": "London",
+    "country": "United Kingdom",
+    "price": 20115328,
+    "image": "http://localhost:3000/images/40.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Ground and Lower Ground, 101-103 Eaton Place",
+    "postCode": "SW1X 8NJ",
+    "city": "London",
+    "country": "United Kingdom",
+    "price": 19780072,
+    "image": "http://localhost:3000/images/49.jpg"
+  },
+  {
+    "id": 8,
+    "title": "The Hertzfeld Palais",
+    "postCode": "1010",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 17919531,
+    "image": "http://localhost:3000/images/69.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Courtenay Avenue, London",
+    "postCode": "N6 4LP",
+    "city": "London",
+    "country": "United Kingdom",
+    "price": 14080730,
+    "image": "http://localhost:3000/images/59.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Upper Maisonette, Blomfield Road",
+    "postCode": "W9 2PF",
+    "city": "London",
+    "country": "United Kingdom",
+    "price": 4358321,
+    "image": "http://localhost:3000/images/89.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Luxurious Living in the Heart of Grinzing",
+    "postCode": "1190",
+    "city": "Vienna",
+    "country": "Austria",
+    "price": 2873887,
+    "image": "http://localhost:3000/images/79.jpg"
+  }
+]
